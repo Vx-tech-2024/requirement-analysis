@@ -1,4 +1,4 @@
-# Requirement-analysis
+<img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/032a9286-98ec-46b8-a3c9-7172e4fbb336" /># Requirement-analysis
 
 ## Requirement Analysis in Software Development
 
@@ -24,7 +24,8 @@ Requirement analysis is a key critical phase in the developement lifecycle due t
 ### Use Case Diagrams.
 Use case diagrams are used to show how different users interact with the system to achieve specific goals. To create a use case diagram one identifies actors, defines use cases and draws interactions between actors and use cases.
 The benefits of use case diagrams are Provision of a clear visual representation of system functionalities, help in identifying and organizing system requirements and facilitating communication among stakeholders and development team.
-A good example for the air-bnb-clone project is attached below
+
+A good example for the air-bnb-clone project is attached below alx-booking-uc.png
 
 <img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/36510764-2867-42b8-9730-51b02fec5dcf" />
 
