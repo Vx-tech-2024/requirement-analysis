@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/032a9286-98ec-46b8-a3c9-7172e4fbb336" /># Requirement-analysis
-
 ## Requirement Analysis in Software Development
 
  The purpose of this repository is to explain the requirement analysis topic in software development and all that it entails. Requirement Analysis focuses on crafting a comprehensive foundation for a software's development by documenting, analyzing and structuring requirements.
@@ -27,7 +25,7 @@ The benefits of use case diagrams are Provision of a clear visual representation
 
 A good example for the air-bnb-clone project is attached below alx-booking-uc.png
 
-<img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/36510764-2867-42b8-9730-51b02fec5dcf" />
+<img width="1536" height="1024" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/36510764-2867-42b8-9730-51b02fec5dcf" />
 
 
 
