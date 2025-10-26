@@ -24,6 +24,9 @@ Requirement analysis is a key critical phase in the developement lifecycle due t
 ### Use Case Diagrams.
 Use case diagrams are used to show how different users interact with the system to achieve specific goals. To create a use case diagram one identifies actors, defines use cases and draws interactions between actors and use cases.
 The benefits of use case diagrams are Provision of a clear visual representation of system functionalities, help in identifying and organizing system requirements and facilitating communication among stakeholders and development team.
+A good example for the air-bnb-clone project is attached below
+<img width="1536" height="1024" alt="usecasediagram" src="https://github.com/user-attachments/assets/a4893a6d-0339-409f-b806-138f157e2cd2" />
+
 
 
 ### Acceptance Criteria
